@@ -1,0 +1,47 @@
+=======================================
+      RAPORT FINAL PROIECT           
+=======================================
+Data si ora generarii: 2026-01-09 15:48:40.516535
+
+sectiunea 1: TEXTUL ORIGINAL
+---------------------------------------
+Ana are multe mere.
+
+
+sectiunea 2: JURNAL COMPLET DE ACTIVITATE
+---------------------------------------
+[15:46:19] --- START APLICATIE ---
+Sesiune noua pornita.
+
+------------------------------
+[15:46:31] --- INCARCARE TEXT ---
+S-a incarcat textul demonstrativ (radar/cojoc).
+
+------------------------------
+[15:46:40] --- CRIPTARE TEXT (Caesar +1) ---
+Qzuipo ftuf vo mjncbk qvufsojd. Bwfn vo sbebs qfsgpsnbou tj vo dpkpd hspt. Bob bsf nfsf.
+
+------------------------------
+[15:46:46] --- SALVARE ---
+Utilizatorul a exportat raportul pe disc.
+
+------------------------------
+[15:47:01] --- INCARCARE TEXT ---
+S-a incarcat fisierul: nume.txt
+
+------------------------------
+[15:47:10] --- HISTOGRAMA LUNGIMI ---
+Lungime 3: ## (2)
+Lungime 4: # (1)
+Lungime 5: # (1)
+
+
+------------------------------
+[15:48:11] --- INCARCARE TEXT ---
+Eroare la incarcarea fisierului: qwqw
+
+------------------------------
+[15:48:32] --- CRIPTARE TEXT (Caesar +1) ---
+Bob bsf nvmuf nfsf.
+
+------------------------------
